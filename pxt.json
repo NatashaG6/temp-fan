@@ -1,5 +1,5 @@
 {
-    "name": "TEMP FAN",
+    "name": "project",
     "description": "",
     "dependencies": {
         "core": "*",
